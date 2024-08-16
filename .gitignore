@@ -23,6 +23,10 @@ pids
 .DS_Store
 Thumbs.db
 
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
 # Logs
 logs
 *.log
