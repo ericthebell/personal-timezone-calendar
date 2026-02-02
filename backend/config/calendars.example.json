@@ -1,0 +1,25 @@
+{
+  "calendars": [
+    {
+      "id": "cal-work",
+      "url": "https://calendar.google.com/calendar/ical/your-work-calendar/basic.ics",
+      "name": "Work Calendar",
+      "mode": "face-value",
+      "enabled": true
+    },
+    {
+      "id": "cal-personal",
+      "url": "https://calendar.google.com/calendar/ical/your-personal-calendar/basic.ics",
+      "name": "Personal Calendar",
+      "mode": "personal-timezone",
+      "enabled": true
+    },
+    {
+      "id": "cal-travel",
+      "url": "https://calendar.google.com/calendar/ical/your-travel-calendar/basic.ics",
+      "name": "Travel & Trips",
+      "mode": "personal-timezone",
+      "enabled": true
+    }
+  ]
+}

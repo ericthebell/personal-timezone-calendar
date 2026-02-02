@@ -1,0 +1,37 @@
+# Dependencies
+node_modules
+
+# Tests
+tests
+*.test.js
+jest.config.js
+
+# Development files
+.env
+.env.*
+nodemon.json
+
+# Config files (mounted as volumes)
+config/calendars.json
+config/settings.json
+
+# Documentation
+README.md
+CLAUDE.md
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db

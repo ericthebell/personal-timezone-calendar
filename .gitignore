@@ -4,6 +4,15 @@ node_modules/
 # environment variables
 .env
 
+# calendar configuration (contains sensitive URLs)
+backend/config/calendars.json
+
+# settings configuration (contains feed secret)
+backend/config/settings.json
+
+# Docker persistent data (config files mounted as volumes)
+data/*.json
+
 # build output
 build/
 dist/
